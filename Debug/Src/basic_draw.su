@@ -1,0 +1,13 @@
+basic_draw.c:20:6:draw_my_plane	16	static
+basic_draw.c:26:6:draw_enemy_plane	16	static
+basic_draw.c:31:6:draw_my_bullet	16	static
+basic_draw.c:43:6:draw_cross	24	static
+basic_draw.c:48:6:draw_heart	24	static
+basic_draw.c:55:6:draw_forward_trigon	48	static
+basic_draw.c:66:6:draw_reversed_trigon	48	static
+basic_draw.c:77:6:init_play_interface	16	static
+basic_draw.c:83:6:draw_play_title	32	static
+basic_draw.c:90:6:paintnum	48	static
+basic_draw.c:96:6:draw_all_my_buttles	24	static
+basic_draw.c:106:6:draw_all_enemy_planes	24	static
+basic_draw.c:117:6:draw_play_all	24	static

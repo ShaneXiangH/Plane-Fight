@@ -1,0 +1,8 @@
+run.c:10:6:generate_enemy_planes	32	static
+run.c:24:6:update_my_buttles	40	static
+run.c:42:6:update_enemy_planes	40	static
+run.c:62:6:check_my_plane_to_enemy_plane_collide	48	static
+run.c:87:6:check_my_buttles_to_enemy_plane_collide	48	static
+run.c:110:6:clear_all_enemy_plane	32	static
+run.c:120:6:arrange_my_buttles	24	static
+run.c:130:6:arrange_enemy_planes	24	static
